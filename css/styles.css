@@ -1,0 +1,50 @@
+.top-container
+{
+    background-color: #C9EEFF;
+    position: relative;
+    padding-top: 100px;
+}
+.mid-container
+{
+    
+}
+.bottom-container
+{
+    
+}
+.pro
+{
+    text-decoration: underline;
+}
+body
+{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1
+{
+    font-size: 50px;
+    margin: 0 auto 0 auto;
+    font-family: 'Dancing Script',cursive;
+}
+h2
+{
+    font-family: 'Raleway', sans-serif;
+}
+h3
+{
+    font-family: 'Raleway', sans-serif;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 30%;
+    bottom:50%;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 30%;
+    top: 5%;
+}
